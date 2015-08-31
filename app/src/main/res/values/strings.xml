@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Teecket</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_information">information</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_next_page">NextPage</string>
+</resources>
